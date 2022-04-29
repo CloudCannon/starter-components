@@ -1,5 +1,7 @@
 # Starter Components
 
+`npx @bookshop/browser`
+
 Working project for building out the new starter components & surrounding themes project.  
 Everything should currently be viewed in a state of flux — treat this as an R&D repo.
 
