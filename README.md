@@ -3,7 +3,11 @@
 Working project for building out the new starter components & surrounding themes project.  
 Everything should currently be viewed in a state of flux — treat this as an R&D repo.
 
+Initial cut will include components built for Hugo.
+
 General plan is that a page will have an array of `sections`, where each section contains one or more arrays of `content_blocks`. This prevents users from nesting sections (i.e. putting `two-columns` inside another `two-columns` etc).
+
+Figma reference for components and sections: https://www.figma.com/file/7sd7vSt6KxeAMce9x0m3xU/Starter-template?node-id=137%3A531
 
 ## Sections
 
