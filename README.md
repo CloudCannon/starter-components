@@ -79,3 +79,6 @@ They're probably too specific to add to the page directly, but are useful to add
 
 These may also have some of the same width / alignment settings as the sections, or they may inherit the width / alignment settings from their parent section.
 
+## Styling
+
+Currently, styles are implemented using flex. Where possible, use css variables and define these in `components/shared/styles/global.scss`, which will allow users to retheme the component library easily.
