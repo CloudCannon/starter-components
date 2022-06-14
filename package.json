@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bookshop/browser": "3.1.2",
-    "@bookshop/generate": "3.1.2",
-    "@bookshop/hugo-engine": "3.1.2"
+    "@bookshop/browser": "3.2.0-beta.0",
+    "@bookshop/generate": "3.2.0-beta.0",
+    "@bookshop/hugo-engine": "3.2.0-beta.0"
   }
 }
